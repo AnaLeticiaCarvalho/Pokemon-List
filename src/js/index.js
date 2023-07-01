@@ -1,1 +1,1 @@
-alert('Olá!')
+alert('JS file')
